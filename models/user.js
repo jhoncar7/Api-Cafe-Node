@@ -15,7 +15,7 @@ const UserShema = Schema({
         type: String,
         required: [true, 'El contraseña es obligatoria']
     },
-    picture: {
+    img: {
         type: String,
         default: process.env.PICTURE_PROFILE
     },

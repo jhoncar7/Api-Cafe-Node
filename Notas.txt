@@ -11,6 +11,9 @@ npm i express-validator
 npm i jsonwebtoken
 npm install google-auth-library --save
 npm i nodemailer
+npm i express-fileupload
+npm i uuid
+npm i cloudinary
 }
 
 url
