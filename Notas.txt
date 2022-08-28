@@ -1,0 +1,24 @@
+dependencias
+{
+npm install mongoose
+npm init -y
+npm i nodemon
+npm i dotenv
+npm i express
+npm i cors // ciertas ips puedan acceder a los endpoint
+npm i bcryptjs
+npm i express-validator
+npm i jsonwebtoken
+npm install google-auth-library --save
+npm i nodemailer
+}
+
+url
+{
+https://mongoosejs.com/
+https://developers.google.com/identity/gsi/web/guides/overview
+}
+
+
+heroku logs -n 100 --tail
+mantenga en vivo todos los logs en la cmd, entiempo real
